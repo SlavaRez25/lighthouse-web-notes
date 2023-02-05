@@ -9,3 +9,5 @@
 Worked on by [Slava](https://github.com/SlavaRez25?tab=repositories)
 At [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
+  * [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
